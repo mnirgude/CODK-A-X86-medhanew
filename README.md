@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmnirgude%2FCODK-A-X86-medhanew.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmnirgude%2FCODK-A-X86-medhanew?ref=badge_shield)
+
                                Arduino 101 Firmware
 Table of Contents
 
@@ -108,3 +110,7 @@ and extract there.
     $ ./flash_dfu.sh
 
 Press the reset button on the board to begin the flash process.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmnirgude%2FCODK-A-X86-medhanew.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmnirgude%2FCODK-A-X86-medhanew?ref=badge_large)
